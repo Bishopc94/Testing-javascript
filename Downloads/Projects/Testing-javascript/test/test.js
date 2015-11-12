@@ -1,5 +1,5 @@
 var assert = require('assert');
-var Fizz = require('../fizzBuzz.js').fizz;
+var Fizz = require('../fizzBuzz.js');
 describe('FizzBuzz', function() {
   it('should print 3 for all numbers divisible by 3', function(){
     assert.equal(0, Fizz.fizz);

@@ -1,7 +1,6 @@
 function FizzBuzz(){
-  return 0
+  return 0;
 }
-
-export.main = {
-  fizz: FizzBuzz
+exports.main = {
+  FizzBuzz: FizzBuzz
 };

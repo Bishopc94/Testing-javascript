@@ -2,11 +2,7 @@
   "name": "GitHub",
   "version": "1.0.0",
   "description": "",
-<<<<<<< HEAD
-  "main": "index.js",
-=======
   "main": "fizzBuzz.js",
->>>>>>> 423c43380c1100647be334822d96f38543b814b9
   "directories": {
     "test": "test"
   },
